@@ -33,5 +33,6 @@ prop         | type                 | default value
 `logo`       | `string` (URL / PATH)|
 `logoWidth`  | `number`             | `size * 0.2`
 `logoHeight` | `number`             | Proportional scaling to `logoWidth`
+`onClick`    | `function`           |
 
 <img src="qrcode.png" height="256" width="256">
